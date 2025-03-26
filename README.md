@@ -16,6 +16,19 @@ QuranPlayer App is a mobile application designed for reading the Quran in Arabic
 
 ⚡ Built with Flutter and GetX for state management
 
+
+🛠️ Technologies Used
+
+Flutter for cross-platform development
+
+Dart as the programming language
+
+GetX for state management
+
+Google Fonts for custom typography
+
+
+
 for webApp Version 
 https://qurany-8df6f.web.app
 

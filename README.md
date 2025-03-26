@@ -1,16 +1,21 @@
-# myapp
+QuranPlayer App is a mobile application designed for reading the Quran in Arabic with translations in English and French. It offers a customizable reading experience with options to adjust font size, background color, text styles, and more.
 
-A new Flutter project.
+✨ Features
 
-## Getting Started
+📖 Read the Quran in Arabic
 
-This project is a starting point for a Flutter application.
+🌍 Translations available in English and French
 
-A few resources to get you started if this is your first Flutter project:
+🔍 Search for Surahs and verses
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎨 Customize text size, font style, and background color
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📌 Bookmark favorite verses
+
+📢 Audio recitation support (Upcoming)
+
+⚡ Built with Flutter and GetX for state management
+
+for webApp Version 
+https://qurany-8df6f.web.app
+

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "575216270426",
+    "project_id": "qurany-8df6f",
+    "storage_bucket": "qurany-8df6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575216270426:android:4680eab78e4e631482ec63",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575216270426-mi59u9f75vpn04brelferlslfr03rmuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4EMR2469Ao0zNn0fD6e6bE-uJftADaNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575216270426-mi59u9f75vpn04brelferlslfr03rmuu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "575216270426-inqnuvd6j6cp7mrcffeksct5tpjfh46c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quraneMp3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575216270426:android:19bae45b919bdb7582ec63",
+        "android_client_info": {
+          "package_name": "com.quranplay.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575216270426-mi59u9f75vpn04brelferlslfr03rmuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4EMR2469Ao0zNn0fD6e6bE-uJftADaNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575216270426-mi59u9f75vpn04brelferlslfr03rmuu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "575216270426-inqnuvd6j6cp7mrcffeksct5tpjfh46c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quraneMp3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

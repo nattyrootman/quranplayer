@@ -1,0 +1,23 @@
+
+
+{
+  "privacy": {
+    "data_collection": "Nous ne collectons ni ne stockons aucune donnée personnelle.",
+    "registration": "L'inscription est optionnelle et ne nécessite aucune donnée personnelle.",
+    "data_sharing": "Nous ne suivons, ne partageons ni n'utilisons vos informations personnelles.",
+    "commitment": "Nous nous engageons à protéger votre vie privée."
+  },
+  "translations": {
+    "sources": "Les traductions sont issues de sources reconnues comme Muhammad Hamidullah et Abdel Haleem. ",
+    
+  
+    "selection": "Nous avons sélectionné ces sources pour leur qualité et leur conformité.",
+    "feedback": "Vos retours sont précieux pour améliorer l'application.",
+    "note": {
+      "description": "Les traductions du Coran présentées dans cette application sont issues de sources reconnues et largement utilisées par la communauté musulmane, notamment les traductions de Muhammad Hamidullah et de Abdel Haleem ainsi que le Saheeh International (Anglais) par les 3 Americianes Umm Muhammad (Emily Assami),Mary Kennedy , Amatullah Bantley",
+      "disclaimer": "Nous avons sélectionné ces sources pour leur qualité et leur conformité aux principes de la traduction coranique. Cependant, il est important de noter que la traduction du Coran est une tâche complexe et que différentes interprétations peuvent exister",
+      "recommendation": "Nous vous encourageons à consulter différentes sources et à vous référer à des experts en la matière pour une compréhension approfondie des textes sacrés.",
+      "feedback": "Si vous constatez une erreur ou si vous avez des suggestions d'amélioration n'hésitez pas à nous en faire part. Vos retours sont précieux pour nous aider à améliorer continuellement notre application"
+    }
+  }
+}
